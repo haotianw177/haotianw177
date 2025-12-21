@@ -1,4 +1,4 @@
-## Hi there 👋
+## hi, it's Chris 👋
 
 <!--
 **haotianw177/haotianw177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-hi this is Chris
+happy hacking, teehee
