@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-happy hacking, teehee
+my [spotify](https://open.spotify.com/user/31ejunlogqipbxyna3xvcvh2grrq?si=067ac260a1c84acc)
+
+my [site](haotianwang.net)
