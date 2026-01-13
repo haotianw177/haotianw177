@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 my [spotify](https://open.spotify.com/user/31ejunlogqipbxyna3xvcvh2grrq?si=067ac260a1c84acc)
 
-a personal [website](www.haotianwang.net)
+personal [website](www.haotianwang.net)
