@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-my [spotify](https://open.spotify.com/user/31ejunlogqipbxyna3xvcvh2grrq?si=067ac260a1c84acc)
+my  [spotify](https://open.spotify.com/user/31ejunlogqipbxyna3xvcvh2grrq?si=067ac260a1c84acc)
 
 personal [website](www.haotianwang.net)
